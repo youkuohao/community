@@ -1,2 +1,2 @@
-# boge-community
-Community for Youkuohao Boge
+# Youkuohao Community
+Community for Youkuohao Products.
